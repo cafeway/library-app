@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "771361749375",
+    "project_id": "rsa-library-e3fe2",
+    "storage_bucket": "rsa-library-e3fe2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771361749375:android:1e20d67c6a5e2c9e59424a",
+        "android_client_info": {
+          "package_name": "com.bekas.rsa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "771361749375-29sp9ajuv6iuds2hc342sh405uji7gb2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG4i9qnaw0aPkDCujqp49h_CtCuplUEtA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "771361749375-29sp9ajuv6iuds2hc342sh405uji7gb2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
